@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's declaration, enjoining the execution of his edict in Octob. 1685. for the revocation of the Edict of Nants, &amp;c. Given at Versailles the 13th of Dec. 1698. and registred in Parliament. Faithfully translated from the original printed at Paris, 1698.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88567</idno>
+            <idno type="STC">Wing L3105C</idno>
+            <idno type="STC">ESTC R230713</idno>
+            <idno type="EEBO-CITATION">99896439</idno>
+            <idno type="PROQUEST">99896439</idno>
+            <idno type="VID">154270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2408:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's declaration, enjoining the execution of his edict in Octob. 1685. for the revocation of the Edict of Nants, &amp;c. Given at Versailles the 13th of Dec. 1698. and registred in Parliament. Faithfully translated from the original printed at Paris, 1698.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by John Nutt near Stationers-Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCXCVIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715. --  Edit de Nantes --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154270:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <p>THE French King's DECLARATION, Enjoining the EXECUTION Of His Edict in Octob. 1685.</p>
+            <p>For the REVOCATION of the <hi>EDICT</hi> of <hi>NANTS, &amp;c.</hi>
+            </p>
+            <p>Given at <hi>Verſailles</hi> the 13th of <hi>Dec.</hi> 1698. And Regiſtred in PARLIAMENT.</p>
+            <p>Faithfully Tranſlated from the Original Printed at <hi>Paris,</hi> 1698.</p>
+            <p>Publiſhed by <hi>John Nutt</hi> near <hi>Stationers-Hall.</hi> MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154270:2"/>
+            <!-- PDF PAGE 89 -->
+            <pb n="1" facs="tcp:154270:2"/>
+            <!-- PDF PAGE 89 -->
+            <head>THE French King's DECLARATION FOR Putting in Execution his Edict in <hi>October</hi> 1685, for the Revocation of the Edict of <hi>Nants, &amp;c.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <hi>LEWIS</hi> by the Grace of God King of <hi>France</hi> and <hi>Navarre:</hi> To all to whom theſe Preſents ſhall come, Greeting. Our Deſire of an Union of all Our Subjects in the Ca<g ref="char:EOLhyphen"/>tholick, Apoſtolick, and Roman Religion, Eſtabliſhed and ſo Religiouſly obſerved in our Kingdom during ſo many Ages, having obliged Us to repeal by Our Edict in the Month of <hi>October</hi> 1685, thoſe by which the Kings Our Predeceſſors, and particularly King <hi>Henry</hi> the Fourth of glorious Memory, (being obliged
+<pb n="2" facs="tcp:154270:3"/>
+                  <!-- PDF PAGE 90 -->thereto by the Diſorders which happened during their Reigns) have Tolerated the pretended Reformed Re<g ref="char:EOLhyphen"/>ligion; We have with great Satisfaction ſeen the greateſt part of Our Subjects that were engaged in it, return into the Communion of the Church from which their Fathers had ſeparated themſelves during the laſt Age; But notwithſtanding that the addition of Care and Labour which has lain upon Us during the late War, has not diminiſh'd in Us a continual Application for the perfecting of ſo great a Work; Yet the Perſons who are entruſted with the Execution of Our Com<g ref="char:EOLhyphen"/>mands throughout the ſeveral Provinces of Our King<g ref="char:EOLhyphen"/>dom, being hindred by the many different Affairs that We have been obliged to employ them in for ſome years paſt, from performing their Parts with the ſame vi<g ref="char:EOLhyphen"/>gilancy, We have to Our great Diſſatisfaction under<g ref="char:EOLhyphen"/>ſtood, that ſome of the pretended Reformed Mini<g ref="char:EOLhyphen"/>ſters, who have formerly reſided in the Kingdom, and even ſome of Our ſaid Subjects hardened in their Er<g ref="char:EOLhyphen"/>rors, taking advantage in this Juncture of the Weak<g ref="char:EOLhyphen"/>neſs and Levity of others, have flattered them with vain Hopes, whereby ſome have been enticed to fall back from their former good Diſpoſitions; And as We deſire nothing more earneſtly than to ſee a Deſign brought to its full Perfection, which We have under<g ref="char:EOLhyphen"/>taken for the Glory of God, and the Salvation of ſo great a number of Our Subjects, We thought Our ſelves obliged to renew Our Care herein, at this time that it has pleaſed God to grant Peace to <hi>Europe;</hi> thereby to undeceive Our ſaid Subjects from the falſe Reports which ſome have endeavoured to delude them with; and to uſe the moſt Effectual Means to bring
+<pb n="3" facs="tcp:154270:3"/>
+                  <!-- PDF PAGE 90 -->them back ſincerely and truely into the Boſom of the Catholick Church, out of which they cannot expect to be ſaved. Therefore We have Said and Declared, and by theſe Preſents, Signed with Our Hand, do Say and Declare, We Will, and it is Our Pleaſure, That Our Edict in the Month of <hi>October</hi> 1685, repealing the Edict of <hi>Nantes,</hi> and others made in purſuance thereof, be Executed. We do again forbid all Our Sub<g ref="char:EOLhyphen"/>jects to Exerciſe the pretended Reformed Religion within the whole extent of Our Kingdom, to meet together in any Place on this account, in any Number, or under any Pretence whatſoever; To Harbour any Miniſters, and Directly or Indirectly to hold any Cor<g ref="char:EOLhyphen"/>reſpondence with them; Which We again in moſt ex<g ref="char:EOLhyphen"/>preſs manner forbid them to do upon the Penalties ex<g ref="char:EOLhyphen"/>preſſed in the Edicts and Declarations we have already made on this Account, it being Our Will, that they be Executed according to their Form and Te<g ref="char:EOLhyphen"/>nour. We Require all Our Attorneys General and their Subſtitutes, and all other Our Officers, to be Aiding and Aſſiſting, and to inform us carefully of all Proceedings herein, as Occaſion ſhall occur.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>We Admoniſh, and alſo Enjoin all Archbiſhops and Biſhops of our Kingdom, that they continue re<g ref="char:EOLhyphen"/>ſiding within their Biſhopricks according to the Con<g ref="char:EOLhyphen"/>ſtitutions of the Holy Canons and Our Ordinances, to employ their utmoſt Zeal and Application in the Inſtruction and Salvation of Our Subjects, whom it has pleaſed God to entruſt to their Spiritual Autho<g ref="char:EOLhyphen"/>rity; and to provide with a more particular Care
+<pb n="4" facs="tcp:154270:4"/>
+                  <!-- PDF PAGE 91 -->for the Inſtruction of ſuch of Our Subjects who are re-united to the Catholick, Apoſtolick and Ro<g ref="char:EOLhyphen"/>man Religion, as ſhall happen to be within their Dioceſe.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>We likewiſe Admoniſh, and Enjoin all Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops, to employ all that Authority which it has pleaſed God to add to their Character, in infuſing the like Sentiments into the Clergy, and particularly the Curates who under their Authority have the chief Care of the Souls of our Subjects in their ſeveral Pariſhes; that they may with a particular Application inſtruct them in the Myſteries of Our Holy Religion, and the Rules of Chriſtian Morality; that to this Effect they may at leaſt on <hi>Sundays</hi> and Holidays read Inſtructions and Catechiſms at certain Hours, in ſuch manner as ſhall be preſcribed them by the ſaid Archbiſhops and Biſhops, and may take Care that the Preachers Teach theſe Truths to Our ſaid Subjects in their Sermons.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>We Admoniſh and Enjoin the ſaid Archbiſhops and Biſhops, that they appoint ſuch Clergy men as they ſhall think fit to give the ſaid Inſtructions, during the time they ſhall judge proper, when they ſhall not find the Curates of ſome certain Places where there are many Perſons who have lately reunited themſelves to the Catholick Religion, able to do it with ſucceſs; and we are willing to provide out of our own Trea<g ref="char:EOLhyphen"/>ſure, for the ſubſiſtence of the ſaid Clergy-men, ac<g ref="char:EOLhyphen"/>cording to the Accounts we ſhall receive from the ſaid Prelates, of the Neceſſity of doing it.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="5" facs="tcp:154270:4"/>
+               <!-- PDF PAGE 91 -->
+               <head>V.</head>
+               <p>We recommend it to all Our Subjects, and eſpeci<g ref="char:EOLhyphen"/>ally to thoſe who are Lords of Mannors, and other the moſt Conſiderable Perſons, together with ſuch as have lately reunited themſelves to the Church; to aſſiſt with all poſſible Exactneſs at Divine Service, that they may bring down thoſe Bleſſings which God grants to ſuch as join their private Prayers to thoſe of his Church; We command them that they always behave them<g ref="char:EOLhyphen"/>ſelves therein with Reverence, eſpecially during, the time of the Celebrating the Holy Maſs, and a<g ref="char:EOLhyphen"/>dore on their Knees the moſt Holy Sacrament on the Altar: As likewiſe, that they obſerve the Commands of the Church as to Faſts, Abſtinency from Fleſh, and Reſt from all manner of Work, and take Care that their Children and Servants do exactly perform the ſame.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>We likewiſe Command all Our ſaid Subjects that they pay all due Honour and Reſpect to all that re<g ref="char:EOLhyphen"/>lates to the Religion within and without the Churches, by their Actions and by their Words, that they Ho<g ref="char:EOLhyphen"/>nour the Perſons of the Clergy, and particularly the Arch-Biſhops and Biſhops, and the Curates of their Pariſhes, and that they receive with deference the Ad<g ref="char:EOLhyphen"/>vice they ſhall give them in Matters of Religion, and concerning their Spiritual Conduct: The whole on Pain of Exemplary Puniſhment to ſuch as ſhall fail therein.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>We Command all Our ſaid Subjects reunited to the Church, That they obſerve in the Marriages they ſhall
+<pb n="6" facs="tcp:154270:5"/>
+                  <!-- PDF PAGE 92 -->be willing to Contract, the Solemnities preſcribed by the Holy Canons, and eſpecially thoſe made by the laſt Council, and Confirm'd by our Our Ordinan<g ref="char:EOLhyphen"/>ces, reſerving to Our Selves the Power to Determine all Civil Diſputes that might ariſe concerning thoſe Marriages, that may have been Contracted by them ſince the Firſt Day of <hi>November,</hi> in the Year 1685. when We ſhall have been more particularly inform'd of the Nature and Circumſtances of each particular Caſe.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>We Command all Our Subjects, and particularly thoſe who have lately reunited themſelves to the Church, That they cauſe their Children to be Bap<g ref="char:EOLhyphen"/>tiz'd in the Churches belonging to the Pariſhes in which they live, within Twenty four Hours after their Birth; unleſs it ſhall be that upon ſome weighty Conſiderati<g ref="char:EOLhyphen"/>ons, they may have obtained leave of the Arch-Bi<g ref="char:EOLhyphen"/>ſhop or Biſhop in whoſe Biſhopricks they ſhall reſide, to put off for ſome time the Ceremony of their Bap<g ref="char:EOLhyphen"/>tiſm. We Command the Midwives and other Perſons who aſſiſt Women in Labour, that they give Notice to the Curate of the Place, of the Birth of ſuch Chil<g ref="char:EOLhyphen"/>dren, and to Our Officers and the Lords of Mannors that have High Juriſdiction, to be aiding and aſſiſting herein, and to puniſh the Offenders by Fine, or even by greater Penalties, as the Nature of the Caſe ſhall require.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Our Will is, that, inaſmuch as is poſſible, there be Eſtabliſhed in all Pariſhes, where the ſame is nor al<g ref="char:EOLhyphen"/>ready done, Maſters, and Miſtreſſes that ſhall In<g ref="char:EOLhyphen"/>ſtruct Children, and particularly thoſe whoſe Fathers and Mothers have profeſſed the Pretended Reformed
+<pb n="7" facs="tcp:154270:5"/>
+                  <!-- PDF PAGE 92 -->Religion, in the Catechiſm, and ſuch Prayers as are neceſſary for their direction at Maſs on Week-Days; and to give them the Inſtruction they ſhall need on this account, and to take care, during the time they ſhall go to the ſaid School, that they aſſiſt at all Divine Services on Sundays and Holy-Days; as alſo to Learn thoſe to Read and even to Write, who ſhall have oc<g ref="char:EOLhyphen"/>caſion for it: The whole in the Manner preſcrib'd by the 25th Article of Our Edict, in the Month of <hi>April</hi> 1695. concerning Eccleſiaſtical Juriſdiction, and as ſhall be ordered by the Arch-Biſhops and Biſhops; and that in Places where no other Proviſion ſhall have been made, the neceſſary Sums for their Subſiſtence be Le<g ref="char:EOLhyphen"/>vied on the Inhabitants, not exceeding 150 <hi>Livres</hi> a Year for the Maſters, and 100 <hi>Livres</hi> for the Mi<g ref="char:EOLhyphen"/>ſtreſſes; and that the neceſſary Letters to Authorize them herein be diſpatched without any Charge to them, according to the Informations which the Arch-Biſhops and Biſhops of the reſpective Dioceſes, and the Commiſſioners eſtabliſhed in Our Provinces for Exe<g ref="char:EOLhyphen"/>cuting Our Orders, ſhall give us.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>We Enjoyn all Parents, Guardians, and others, who are Entruſted with the Education of Children, and par<g ref="char:EOLhyphen"/>ticularly of ſuch whoſe Fathers and Mothers have pro<g ref="char:EOLhyphen"/>feſſed the Pretended Reformed Religion, that they ſend them to the Schools and Catechiſings aforeſaid, till they are Fourteen years Old, unleſs their Condition be ſuch as that they may and ought to have them Inſtructed at home by Tutors well Learned in Religion, and of Good Manners, or to ſend them to Colleges; We En<g ref="char:EOLhyphen"/>joyn all Curates to attend with particular Care the In<g ref="char:EOLhyphen"/>ſtruction
+<pb n="8" facs="tcp:154270:6"/>
+                  <!-- PDF PAGE 93 -->of the ſaid Children in their Pariſhes, even of thoſe who ſhall not go to the above-ſaid Schools: We Admoniſh and alſo Enjoyn all Arch-Biſhops and Bi<g ref="char:EOLhyphen"/>ſhops, that they make it the Object of their Care and En<g ref="char:EOLhyphen"/>quiry. We command all Fathers and Mothers who are charged with their Education, and eſpecially all Perſons more conſiderable by their Birth and Employments, that they produce to them, the ſaid Arch-Biſhop and Biſhop, the Children they ſhall have at Home, when they ſhall require it in the Courſe of their Viſitations, that they may give them an account of the Inſtruction they ſhall have receiv'd concerning Religion; And alſo to our Judges, Attorneys, and to ſuch Gentlemen as are Lords of Mannors, aforeſaid, to uſe all Diligence, Requiſitions and Ordinances, as ſhall be neceſſary for the Execution of this Our Will and Pleaſure, and to Puniſh all thoſe who ſhall neglect it, or who ſhall preſume to act any ways contrary thereto, by inflict<g ref="char:EOLhyphen"/>ing on them ſuch Fines or greater Penalties, as the Nature of the Caſe ſhall require.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>We Enjoyn all Relations, when they appoint Guar<g ref="char:EOLhyphen"/>dians or Perſons to take care of the Education of Mi<g ref="char:EOLhyphen"/>nor Children, to chuſe ſuch as are of a good Life and Converſation, and who exactly diſcharge all the Du<g ref="char:EOLhyphen"/>ties of the Catholick Religion.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>We Enjoyn all Phyſicians, and in their abſence all Apothecaries and Chirurgeons, who ſhall be called to Viſit Sick Perſons, that they give Notice there<g ref="char:EOLhyphen"/>of to the Curates of the Pariſhes in which they ſhall dwell, ſo ſoon as they ſhall judge that their Patient is
+<pb n="9" facs="tcp:154270:6"/>
+                  <!-- PDF PAGE 93 -->in danger, unleſs they ſee they have been otherwiſe ſent for, that the Sick Perſon, and particularly Our ſaid Subjects newly Reunited to the Church, may from them receive the Spiritual Advice and Conſolation they ſhall ſtand in need of, as alſo the Benefit of the Sacra<g ref="char:EOLhyphen"/>ments when they ſhall find them in a Condition to re<g ref="char:EOLhyphen"/>ceive them: We Command the Relations, Servants, and other Perſons who are near the ſaid Sick Perſons, to in<g ref="char:EOLhyphen"/>troduce them, the ſaid Curates, and to receive them with the Reſpect ſuitable to their Character. And it is Our Will, That ſuch Phyſicians, Apothecaries and Chi<g ref="char:EOLhyphen"/>rurgeons as ſhall neglect to Execute Our Orders to them in this behalf, ſhall be puniſhed by Fines; and in caſe of a ſecond Default, by ſuſpending them from their Practice, as the Nature of the Caſe ſhall require.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Our Pleaſure is, That according to the Ancient Or<g ref="char:EOLhyphen"/>dinances of the Kings, Our Predeceſſors, and the Cu<g ref="char:EOLhyphen"/>ſtom obſerved, no Perſon ſhall be admitted into any Office of Judicature in any of our Courts of Juſtice, in the Courts of the Lords of the Mannors, or in Places belonging to our Cities held by Our Authority, or into the Employments of Town Clerks, Attorneys, Notaries, and Bailiffs, unleſs they have an Atteſtation from the Curate of the Pariſh in which they dwell, or their Vi<g ref="char:EOLhyphen"/>cars, certifying their good Life and Manners, and alſo their exerciſing the Catholick, Apoſtolick and Roman Religion.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>Our Pleaſure is, That no Licences or Degrees be for the future granted in the Univerſities of Our Kingdom, to ſuch as have ſtudied Law or Phyſick, unleſs they have the like Atteſtation from their Curates, which
+<pb n="10" facs="tcp:154270:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 94 -->ſhall be exhited to ſuch as have Power to grant the ſaid Degrees.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Our Will moreover is, That Our ſaid Subjects do peaceably Enjoy their Eſtates and Exerciſe their Com<g ref="char:EOLhyphen"/>merce as others do, on condition that they cauſe them<g ref="char:EOLhyphen"/>ſelves to be Inſtructed and Confirmed in the Catholick, Apoſtolick and Roman Religion; That they ſuffer and even cauſe their Children to be Inſtructed there<g ref="char:EOLhyphen"/>in; That they exactly obſerve all our Edicts and Declarations; and that they behave themſelves on all occaſions as Our Good and Faithful Subjects ought to do. And We Command all Our Beloved and Truſty Councellors holding our Court of Parliament at <hi>Paris,</hi> That they cauſe theſe Preſents to be Read, Publiſhed, Regiſtred, and the Contents of them to be kept and ob<g ref="char:EOLhyphen"/>ſerved according to their Form and Tenor; For ſuch is Our Pleaſure. In Witneſs whereof We have affixed Our Seal to theſe Preſents; <hi>Given at</hi> Verſailles <hi>the 13th Day of</hi> December, 1698, <hi>and of Our Reign the 50th. Signed</hi> Louis; <hi>and underneath,</hi> By the King Phelypeaux: <hi>and Sealed with the Broad Seal in Yellow Wax.</hi>
+               </p>
+               <p>Regiſtred and Heard at the Requeſt of the King's Attorney General, to be executed according to their Form and Tenor, and true Copies thereof ſent to the Baylywicks and Seneſchalſies of the Diſtrict, to be there Read, Publiſhed, and Regiſtred. Injuncti<g ref="char:EOLhyphen"/>ons giv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to the Subſtitutes of the King's Attor<g ref="char:EOLhyphen"/>ney General to be Aiding and Aſſiſting therein, and to C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtifie the Court thereof within a Month, according to the Order of this Day.</p>
+            </div>
+            <closer>
+               <dateline>At <hi>Paris</hi> in Parliament <date>the 20th of        <hi>December,</hi> 1698.</date>
+               </dateline> 
+               <signed>Signed, <hi>Du Jardin.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
